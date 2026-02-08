@@ -110,10 +110,4 @@ Reverse transliteration has inherent ambiguity. The tool uses heuristics:
 
 For deterministic output, input should follow the expected BGN/PCGN conventions.
 
-## Tests
 
-```bash
-python3 -m unittest -v test_russian_nato_transliterator.py
-```
-
-Tests cover core rules and roundtrip cases.
