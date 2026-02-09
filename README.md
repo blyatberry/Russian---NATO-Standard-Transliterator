@@ -10,6 +10,7 @@ Files:
 - `russian_nato_transliterator.py`
 - `russian_nato_transliterator_gui.py` (German UI)
 - `russian_nato_transliterator_gui_en.py` (English UI)
+-  NATOtransliterator.apk (Android App)
 
 ## Requirements
 
